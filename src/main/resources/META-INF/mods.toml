@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[1.20.1,)"
+license="MIT"
+[[mods]]
+modId="timershears"
+version="1.0.0"
+displayName="Timer Shears"
+description="A shears-like item that starts a countdown automatically. Pauses when holding book+quill, resumes when focus lost. Saves and exits on timeout."
